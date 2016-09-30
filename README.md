@@ -11,7 +11,7 @@
 
 1. Execute `npm install` to install all dependences.
 
-2. Execute `gulp serve` para iniciar o servidor de desenvolvimento. Deverá abrir uma aba no browser quando tiver tudo pronto.
+2. Execute `gulp serve` for a preview development
 
 ## Build
 
