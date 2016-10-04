@@ -13,6 +13,11 @@
 
 2. Execute `gulp serve` for a preview development
 
+### Tests
+
+1. Execute `gulp test:auto` to run Karma test runner in background
+
+
 ## Build
 
 Execute `gulp build` to build project for production use case.
