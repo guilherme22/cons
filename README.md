@@ -1,7 +1,5 @@
 # Graph conslog
  
-
-
 ### dependences
 
 - [Git](https://git-scm.com/)
@@ -13,8 +11,15 @@
 
 1. Execute `npm install` to install all dependences.
 
-2. Execute `gulp serve` for a development preview.
+2. Execute `gulp serve` for a preview development
+
+### Tests
+
+1. Execute `gulp test:auto` to run Karma test runner in background
+
 
 ## Build
 
 Execute `gulp build` to build project for production use case.
+
+Execute `gulp serve:dist` to preview production
